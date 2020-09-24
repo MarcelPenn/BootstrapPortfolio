@@ -1,0 +1,25 @@
+.navbar {
+  background-color: transparent;
+  box-shadow: 0px 1px 20px #eaeaea;
+  transition: background-color 1s ease 0s;
+}
+
+.navbar .solid {
+  transition: background-color 1s ease 0s;
+}
+
+.card-img-top {
+  height: 22vh;
+  object-fit: cover;
+}
+
+.card-text {
+  font-size: 0.8em;
+}
+
+.card {
+}
+
+.card:hover {
+  box-shadow: 0px 1px 20px black;
+}
